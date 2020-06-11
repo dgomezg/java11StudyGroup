@@ -25,7 +25,7 @@ public class MethodOverloading {
     //public void doSomething(int number) {};
     //the final modifier does not belong to the method signature;
     //public void doSomething(final int number) {};
-    
+
     public void doSomething(Integer seed) {
         System.out.println("doSomething(Integer)");
     }
