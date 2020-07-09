@@ -1,4 +1,4 @@
-package com.mybank.com.mybank.newhr;
+package com.mybank.newhr;
 
 import com.mybank.hr.HRAccount;
 
